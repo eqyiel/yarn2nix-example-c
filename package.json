@@ -1,0 +1,11 @@
+{
+  "name": "yarn2nix-example-c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eqyiel/yarn2nix-example-c.git",
+  "author": "Ruben Maher <ruben@maher.fyi>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
